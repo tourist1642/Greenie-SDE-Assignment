@@ -1,0 +1,1 @@
+It is a User management Dashboard using React for functionality and Tailwind for CSS
